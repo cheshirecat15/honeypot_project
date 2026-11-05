@@ -1,0 +1,13 @@
+==== Honeypot Security Report ====
+Generated on: Thu Nov 27 11:07:36 IST 2025
+-------------------------------------
+Total Connection Attempts: 2
+
+Top Attackers:
+      2 127.0.0.1
+
+Blocked IPs (Attempted >=5 times):
+No IPs blocked yet.
+
+-------------------------------------------
+End of Report.
